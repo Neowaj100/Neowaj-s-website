@@ -61,14 +61,14 @@ body{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-    height: 460px;
+    height: 480px;
 }
 #section3 h2{
     margin-left: 35px;
     text-shadow: 2px 2px 4px rgb(1, 131, 131);
 }
 .education{
-    height: 85%;
+    height: 80%;
     box-shadow: 10px 10px 30px cyan;
 }
 .education h3{
