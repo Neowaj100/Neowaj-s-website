@@ -61,7 +61,7 @@ body{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-    height: 400px;
+    height: 420px;
 }
 #section3 h2{
     margin-left: 35px;
@@ -70,6 +70,13 @@ body{
 .education{
     height: 80%;
     box-shadow: 10px 10px 30px cyan;
+}
+.education h3{
+    font-size: 30px;
+}
+.education h4{
+    color: orangered;
+    font-size: 17px;
 }
 #left-border1{
     border-left: 8px solid;
@@ -87,7 +94,7 @@ body{
 }
 .education span{
     font-size: 18px;
-    color: rgb(213, 139, 0);
+    color: rgb(171, 115, 10);
 }
 footer p{
     text-align: center;
