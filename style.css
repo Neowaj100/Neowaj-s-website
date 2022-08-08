@@ -34,6 +34,10 @@ body{
     padding: 4px 20px;
     border-radius: 5px;
     text-decoration: none;
+    box-shadow: 2px 2px 8px rgb(0, 162, 162);
+}
+.link1:hover{
+    background-image: linear-gradient(190deg, rgb(235, 175, 9) ,rgb(173, 97, 4));
 }
 
 #section2{
@@ -61,6 +65,7 @@ body{
 }
 #section3 h2{
     margin-left: 35px;
+    text-shadow: 2px 2px 4px rgb(1, 131, 131);
 }
 .education{
     height: 80%;
